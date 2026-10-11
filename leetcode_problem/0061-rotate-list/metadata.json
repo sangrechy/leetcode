@@ -1,16 +1,16 @@
 {
-  "submission_id": "2169467067",
+  "submission_id": "2169545822",
   "problem_id": "61",
   "frontend_id": "61",
   "problem_title": "Rotate List",
   "problem_slug": "rotate-list",
   "language": "cpp",
-  "timestamp": 1791736742,
-  "submitted_at": "2026-10-11T16:39:02.000Z",
+  "timestamp": 1791741454,
+  "submitted_at": "2026-10-11T17:57:34.000Z",
   "result": "Accepted",
-  "runtime": "1 ms",
-  "runtime_percentile": "4.4%",
-  "memory": "16.3 MB",
+  "runtime": "0 ms",
+  "runtime_percentile": "100.0%",
+  "memory": "16.4 MB",
   "memory_percentile": "63.3%",
   "problem_url": "https://leetcode.com/problems/rotate-list/"
 }
