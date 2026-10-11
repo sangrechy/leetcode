@@ -1,0 +1,16 @@
+{
+  "submission_id": "1869595185",
+  "problem_id": "870",
+  "frontend_id": "840",
+  "problem_title": "Magic Squares In Grid",
+  "problem_slug": "magic-squares-in-grid",
+  "language": "python3",
+  "timestamp": 1767114799,
+  "submitted_at": "2025-12-30T17:13:19.000Z",
+  "result": "Accepted",
+  "runtime": "0 ms",
+  "runtime_percentile": "100.0%",
+  "memory": "17.3 MB",
+  "memory_percentile": "100.0%",
+  "problem_url": "https://leetcode.com/problems/magic-squares-in-grid/"
+}
