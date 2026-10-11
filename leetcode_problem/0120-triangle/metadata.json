@@ -1,16 +1,16 @@
 {
-  "submission_id": "2169584021",
+  "submission_id": "2169584470",
   "problem_id": "120",
   "frontend_id": "120",
   "problem_title": "Triangle",
   "problem_slug": "triangle",
   "language": "cpp",
-  "timestamp": 1791743807,
-  "submitted_at": "2026-10-11T18:36:47.000Z",
+  "timestamp": 1791743841,
+  "submitted_at": "2026-10-11T18:37:21.000Z",
   "result": "Accepted",
-  "runtime": "3 ms",
+  "runtime": "0 ms",
   "runtime_percentile": null,
-  "memory": "12.6 MB",
+  "memory": "12.5 MB",
   "memory_percentile": null,
   "problem_url": "https://leetcode.com/problems/triangle/"
 }
