@@ -1,0 +1,17 @@
+{
+  "submission_id": "2174465403",
+  "problem_id": "4078",
+  "frontend_id": "4078",
+  "problem_title": "Three Fibonacci Sum",
+  "problem_slug": "three-fibonacci-sum",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "timestamp": 1792231507,
+  "submitted_at": "2026-10-17T10:05:07.000Z",
+  "result": "Accepted",
+  "runtime": null,
+  "runtime_percentile": null,
+  "memory": null,
+  "memory_percentile": null,
+  "problem_url": "https://leetcode.com/problems/three-fibonacci-sum/"
+}
