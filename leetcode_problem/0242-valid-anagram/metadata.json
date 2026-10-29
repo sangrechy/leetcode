@@ -1,0 +1,19 @@
+{
+  "submission_id": "2184926882",
+  "problem_id": "242",
+  "frontend_id": "242",
+  "problem_title": "Valid Anagram",
+  "problem_slug": "valid-anagram",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "timestamp": 1793294543,
+  "submitted_at": "2026-10-29T17:22:23.000Z",
+  "result": "Not Accepted",
+  "accepted": false,
+  "status_display": "Wrong Answer",
+  "runtime": "N/A",
+  "runtime_percentile": null,
+  "memory": "N/A",
+  "memory_percentile": null,
+  "problem_url": "https://leetcode.com/problems/valid-anagram/"
+}
