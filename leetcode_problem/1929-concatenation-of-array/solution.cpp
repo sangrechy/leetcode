@@ -1,11 +1,7 @@
 class Solution {
 public:
     vector<int> getConcatenation(vector<int>& nums) {
-        int n=nums.size();
-        vector<int> a(n*2);
-        for (int i=0;i<n;i++){
-            a[i]=a[i+n]=nums[i];
-        }
-        return a;
+        nums.insert(nums.end(),nums.begin(),nums.end());
+        return nums;
     }
 };
