@@ -1,0 +1,19 @@
+#1.two sum
+so there are multiple ways to solve this proble:
+
+1.brute force:
+just nested for loop: o(n2)
+
+2.sorting+2pointer:
+sort the list, have two pointer, which point start, and end of list, sum both of them
+if sum is grater than target, make he end move back, thus decrease the sum
+if sum is lesser than the target , make the start move front increse the sum
+due to 1 possible solution, we can find the answer
+complexvity, actually n, but due to sorting, o(nlogn)
+
+3.two pass and one pass (hashing):
+we can iterate the list and create an dict, such that 
+dict[target-current]=current
+thus, when the ( (target-current) value comes, it is the second number, thus a possible pair)
+due to hashing, the finding is constant, thus o(n)
+(two pass refer one for loop, next another for loop o(2n) ie is o(n), and one pass refer,do it in single for loop O(N))
