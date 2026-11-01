@@ -1,0 +1,14 @@
+{
+  "frontend_id": "70",
+  "problem_id": "70",
+  "problem_title": "Climbing Stairs",
+  "problem_slug": "climbing-stairs",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "topic_tags": [
+    "Math",
+    "Dynamic Programming",
+    "Memoization"
+  ],
+  "problem_url": "https://leetcode.com/problems/climbing-stairs/"
+}
