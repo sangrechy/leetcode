@@ -1,0 +1,19 @@
+{
+  "submission_id": "2187129897",
+  "problem_id": "1",
+  "frontend_id": "1",
+  "problem_title": "Two Sum",
+  "problem_slug": "two-sum",
+  "difficulty": "Easy",
+  "language": "cpp",
+  "timestamp": 1793550388,
+  "submitted_at": "2026-11-01T16:26:28.000Z",
+  "result": "Accepted",
+  "accepted": true,
+  "status_display": "Accepted",
+  "runtime": "1 ms",
+  "runtime_percentile": "82.4%",
+  "memory": "14.8 MB",
+  "memory_percentile": "57.0%",
+  "problem_url": "https://leetcode.com/problems/two-sum/"
+}
