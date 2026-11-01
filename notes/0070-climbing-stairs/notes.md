@@ -9,3 +9,4 @@
 
 ## Key Insights
 - Tags: Math, Dynamic Programming, Memoization
+- Dynamic programming / Fibonacci pattern
